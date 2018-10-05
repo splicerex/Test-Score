@@ -13,6 +13,20 @@ def score():
                 
     average=add_all/10
     print(average)
+    
+    if average >=90:
+        print("you got an A")
+    elif average >=80:
+        print("you got an B")
+    elif average >=70:
+        print("you got an C")
+    elif average >=60:
+        print("you got an D")
+    elif average >=50:
+        print("you got an F")
 
 score()
-            
+
+
+
+    
