@@ -1,0 +1,3 @@
+#add all 10
+#the added numbers by divide by 10 to get average
+#print the answer
